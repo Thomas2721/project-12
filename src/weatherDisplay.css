@@ -1,0 +1,40 @@
+.display2{
+    display: flex;
+    justify-content: space-around;
+    color: rgb(255, 255, 255);
+    background-color: rgba(128, 128, 128, 0.347);
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    margin-top: 310px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ margin-left: 20px;
+ margin-right: 20px;
+}
+
+.display1{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+    color: rgb(77, 74, 74);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.temp p:first-child{
+   margin: 0;
+    font-size: 40px;
+    font-weight:100 !important;
+}
+.temp p:nth-child(2){
+    margin: 0;
+   font-size: 70px;
+   font-weight: 600 !important;
+}
+
+.rain{
+
+    font-size: 25px;
+    font-weight: 300 !important; 
+    transform: rotate(-90deg);
+}
+

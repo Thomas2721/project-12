@@ -1,0 +1,13 @@
+body{
+  margin: 0; 
+  overflow-x: hidden;
+  background-image: url(./sunset.jpg);
+  background-size:cover;
+  background-position:center ;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  height:100vh;
+  
+
+
+}
